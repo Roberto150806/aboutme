@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-- 📚 Actualmente estudio en **[Nombre de tu centro educativo]**.  
+- 📚 Actualmente estudio en **[Zaidin Vergeles]**.  
 - 🧠 Me gusta aprender sobre **Linux**, **redes**, **virtualización** y **DevOps**.  
 - ⚙️ Experiencia con entornos **Windows Server**, **Debian/Ubuntu**, **Docker** y **Bash scripting**.  
 - 🌱 En proceso de aprendizaje de **Ansible**, **Python** y **seguridad en redes**.  
@@ -36,18 +36,9 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- ✉️ **Correo:** [robertorodriguezzun@gmail.com](mailto:robertorodriguezzun@gmail.com)  
 
 ---
 
-⭐ *“El conocimiento no se guarda, se comparte.”*
