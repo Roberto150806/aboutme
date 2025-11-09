@@ -1,4 +1,3 @@
-# aboutme
 # 👋 ¡Hola! Soy Roberto Rodríguez Zúñiga
 
 🎓 **Estudiante de 2º de ASIR** (Administración de Sistemas Informáticos en Red)  
